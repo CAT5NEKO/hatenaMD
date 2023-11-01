@@ -1,0 +1,11 @@
+{
+  "UserID": "ユーザーID",
+  "BlogID": "ブログのURLでhttpの部分を抜いたやつ",
+  "ApiKey": "設定のいっちゃん下の部分にひっそりと載ってるAPIキー",
+  "Entries": [
+    {
+      "Title": "MDで記載したタイトル",
+      "SrcPath": "./diary/test.md"
+    }
+  ]
+}
